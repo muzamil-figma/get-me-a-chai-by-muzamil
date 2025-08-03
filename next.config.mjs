@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {};
 
-export default{
-    output: 'export',
+export default  nextConfig;
+
    
-} 
- nextConfig;
+
