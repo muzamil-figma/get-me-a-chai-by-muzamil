@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 👨‍💻 About Me
 
-## Getting Started
+Hi! I'm **Muzamil Nawaz Khan**, a passionate and skilled **Full-Stack Developer** specializing in modern web and mobile technologies. With a strong command of **React.js**, **Next.js**, and **React Native**, I build lightning-fast, responsive, and scalable applications — from idea to deployment.
 
-First, run the development server:
+🚀 Whether it's crafting pixel-perfect frontend designs or building powerful backend APIs, I thrive on delivering seamless user experiences across platforms — including **Android apps** and **Progressive Web Apps**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+💡 My focus? Performance, clean architecture, and intuitive UI that converts visitors into customers.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 💻 **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- 📱 **Mobile:** React Native (Android)
+- 🧠 **Backend:** Node.js, Express.js, MongoDB
+- 🌐 **Others:** GitHub, Vercel, Netlify, Firebase, REST APIs
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🔗 My Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🌐 **Portfolio Website:** [muzamilnawazkhan-001-site1.qtempurl.com](http://muzamilnawazkhan-001-site1.qtempurl.com/#projects)
+- 💼 **LinkedIn:** [Muzamil Nawaz Khan](https://www.linkedin.com/in/muzamil-nawaz-78a738246)
+- 🐙 **GitHub:** [muzamil-figma](https://github.com/muzamil-figma)
+- 📷 **Instagram:** [@muzamil_nawaz_khan_sehar](https://www.instagram.com/muzamil_nawaz_khan_sehar?igsh=M2JycjNmOWJweGQ4)
+- 📘 **Facebook:** [muzamil.nawaz.716](https://www.facebook.com/muzamil.nawaz.716?mibextid=rS40aB7S9Ucbxw6v)
+- 📧 **Email:** muzamilnawazseehar@gmail.com
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📢 Hashtags
+#React #NextJS #ReactNative #AndroidDevelopment #FrontendDeveloper #FullStackDeveloper #WebDesign #ResponsiveDesign #OpenSource #MuzamilNawaz
